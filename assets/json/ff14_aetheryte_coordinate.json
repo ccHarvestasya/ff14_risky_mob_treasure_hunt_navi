@@ -1,0 +1,208 @@
+[{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e2f"
+  },
+  "patch_id": 6,
+  "map_id": 1,
+  "coordinate_id": 1,
+  "x_coordinate": 303,
+  "y_coordinate": 119,
+  "z_coordinate": 39,
+  "coordinate_name": "The Archeion",
+  "coordinate_name_ja": "アルケイオン保管院"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e30"
+  },
+  "patch_id": 6,
+  "map_id": 1,
+  "coordinate_id": 2,
+  "x_coordinate": 216,
+  "y_coordinate": 205,
+  "z_coordinate": 19,
+  "coordinate_name": "Sharlayan Hamlet",
+  "coordinate_name_ja": "リトルシャーレアン"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e31"
+  },
+  "patch_id": 6,
+  "map_id": 1,
+  "coordinate_id": 3,
+  "x_coordinate": 68,
+  "y_coordinate": 275,
+  "z_coordinate": 19,
+  "coordinate_name": "Aporia",
+  "coordinate_name_ja": "アポリア本部"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e32"
+  },
+  "patch_id": 6,
+  "map_id": 2,
+  "coordinate_id": 4,
+  "x_coordinate": 253,
+  "y_coordinate": 340,
+  "z_coordinate": 0,
+  "coordinate_name": "Yedlihmad",
+  "coordinate_name_ja": "イェドリマン"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e33"
+  },
+  "patch_id": 6,
+  "map_id": 2,
+  "coordinate_id": 5,
+  "x_coordinate": 109,
+  "y_coordinate": 222,
+  "z_coordinate": 0,
+  "coordinate_name": "The Great Work",
+  "coordinate_name_ja": "デミールの遺烈郷"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e34"
+  },
+  "patch_id": 6,
+  "map_id": 2,
+  "coordinate_id": 6,
+  "x_coordinate": 295,
+  "y_coordinate": 165,
+  "z_coordinate": 0,
+  "coordinate_name": "Palaka's Stand",
+  "coordinate_name_ja": "パーラカの里"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e35"
+  },
+  "patch_id": 6,
+  "map_id": 3,
+  "coordinate_id": 7,
+  "x_coordinate": 133,
+  "y_coordinate": 310,
+  "z_coordinate": 4,
+  "coordinate_name": "Camp Broken Glass",
+  "coordinate_name_ja": "キャンプ・ブロークングラス"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e36"
+  },
+  "patch_id": 6,
+  "map_id": 3,
+  "coordinate_id": 8,
+  "x_coordinate": 318,
+  "y_coordinate": 179,
+  "z_coordinate": -2,
+  "coordinate_name": "Tertium",
+  "coordinate_name_ja": "テルティウム駅"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e37"
+  },
+  "patch_id": 6,
+  "map_id": 4,
+  "coordinate_id": 9,
+  "x_coordinate": 101,
+  "y_coordinate": 344,
+  "z_coordinate": 13,
+  "coordinate_name": "Sinus Lacrimarum",
+  "coordinate_name_ja": "涙の入江"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e38"
+  },
+  "patch_id": 6,
+  "map_id": 4,
+  "coordinate_id": 10,
+  "x_coordinate": 214,
+  "y_coordinate": 112,
+  "z_coordinate": -14,
+  "coordinate_name": "Bestways Burrow",
+  "coordinate_name_ja": "ベストウェイ・バロー"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e39"
+  },
+  "patch_id": 6,
+  "map_id": 5,
+  "coordinate_id": 11,
+  "x_coordinate": 105,
+  "y_coordinate": 268,
+  "z_coordinate": 2,
+  "coordinate_name": "Reah Tahra",
+  "coordinate_name_ja": "リア・ターラ"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e3a"
+  },
+  "patch_id": 6,
+  "map_id": 5,
+  "coordinate_id": 12,
+  "x_coordinate": 226,
+  "y_coordinate": 83,
+  "z_coordinate": 22,
+  "coordinate_name": "Abode of the Ea",
+  "coordinate_name_ja": "イーアの里"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e3b"
+  },
+  "patch_id": 6,
+  "map_id": 5,
+  "coordinate_id": 13,
+  "x_coordinate": 312,
+  "y_coordinate": 281,
+  "z_coordinate": 39,
+  "coordinate_name": "Base Omicron",
+  "coordinate_name_ja": "オミクロンベース"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e3c"
+  },
+  "patch_id": 6,
+  "map_id": 6,
+  "coordinate_id": 14,
+  "x_coordinate": 246,
+  "y_coordinate": 240,
+  "z_coordinate": 17,
+  "coordinate_name": "Anagnorisis",
+  "coordinate_name_ja": "アナグノリシス天測園"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e3d"
+  },
+  "patch_id": 6,
+  "map_id": 6,
+  "coordinate_id": 15,
+  "x_coordinate": 88,
+  "y_coordinate": 323,
+  "z_coordinate": 13,
+  "coordinate_name": "The Twelve Wonders",
+  "coordinate_name_ja": "十二節の園"
+},
+{
+  "_id": {
+    "$oid": "648319c48c8e6e7d36d19e3e"
+  },
+  "patch_id": 6,
+  "map_id": 6,
+  "coordinate_id": 16,
+  "x_coordinate": 108,
+  "y_coordinate": 170,
+  "z_coordinate": 32,
+  "coordinate_name": "Poieten Oikos",
+  "coordinate_name_ja": "ポイエテーン・オイコス"
+}]

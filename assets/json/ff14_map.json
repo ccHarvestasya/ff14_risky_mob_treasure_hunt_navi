@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "6482521a6624b4585fdecacf"
+  },
+  "patch_id": 6,
+  "map_id": 1,
+  "map_name": "Labyrinthos",
+  "map_name_ja": "ラヴィリンソス"
+},
+{
+  "_id": {
+    "$oid": "6482521a6624b4585fdecad0"
+  },
+  "patch_id": 6,
+  "map_id": 2,
+  "map_name": "Thavnair",
+  "map_name_ja": "サベネア島"
+},
+{
+  "_id": {
+    "$oid": "6482521a6624b4585fdecad1"
+  },
+  "patch_id": 6,
+  "map_id": 3,
+  "map_name": "Garlemald",
+  "map_name_ja": "ガレマルド"
+},
+{
+  "_id": {
+    "$oid": "6482521a6624b4585fdecad2"
+  },
+  "patch_id": 6,
+  "map_id": 4,
+  "map_name": "Mare Lamentorum",
+  "map_name_ja": "嘆きの海"
+},
+{
+  "_id": {
+    "$oid": "6482521a6624b4585fdecad3"
+  },
+  "patch_id": 6,
+  "map_id": 5,
+  "map_name": "Ultima Thule",
+  "map_name_ja": "ウルティマ・トゥーレ"
+},
+{
+  "_id": {
+    "$oid": "6482521a6624b4585fdecad4"
+  },
+  "patch_id": 6,
+  "map_id": 6,
+  "map_name": "Elpis",
+  "map_name_ja": "エルピス"
+}]
